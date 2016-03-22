@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+cd $HOME
+exec caddy -agree
