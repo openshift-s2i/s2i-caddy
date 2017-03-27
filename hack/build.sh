@@ -58,11 +58,11 @@ function docker_build_with_version {
 # Install the docker squashing tool[1] and squash the result image
 # [1] https://github.com/goldmann/docker-scripts
 function squash {
-  # FIXME: We have to use the exact versions here to avoid Docker client
-  #        compatibility issues
-  easy_install -q --user docker_py==1.6.0 docker-scripts==0.4.4
+  # docker-scripts project is renamed to docker-squash and this is tested
+  # on docker_py == 1.10.6 and docker-squash == 1.0.5 and docker engine 17.03
+  easy_install -q --user docker_py docker-squash
   base=$(awk '/^FROM/{print $2}' $1)
-  ${HOME}/.local/bin/docker-scripts squash -f $base ${IMAGE_NAME}
+  ${HOME}/.local/bin/docker-squash -f $base -t ${IMAGE_NAME}:squashed ${IMAGE_NAME}
 }
 
 # Versions are stored in subdirectories. You can specify VERSION variable
