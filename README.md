@@ -1,161 +1,82 @@
-
-## L# ::# :BEGIN :
-
-# GLOW$:#!//POSTED\
-
-cyr; --requests'@"!#ci:Users:\C:\\I :
-
+GLOW$:BEGINS:beginning...,:getting...,:starts :'Run''
+;Eyb;; ;::;Runs:''
+cyr; --requests'@!#ci:Users:\C:\\I :
 !#/###!#/:#!/C\D:Ra,:Users:\02100002100521010230051050000000:\
-
 :Build::
-
 '@:[![CHASE SAVINGS (...2965) - chase.com_1.xlsx](https://github.com/zakwarlord7/s2i-''
 'caddy/files/10330347/CHASE.SAVINGS.2965.-.chase.com_1.xlsx)#]''
-
 '::Fix :AUTOMATE :PERFECT :ALL 
-
 **:Build::Script:"build_script":''
-
 'import :plugg-inns./-.//postted\#Commit \
-
 ./-# GLOW7:"Run:"
-
 # Build:"
-
 # build_script''
-
 # echo:  hello-World!-bug-#138
-
 # name": "my-electron-app",
-
 # versioning": "1.0.0",
-
 # description: "Hello World!",
-
 const: "['^LLJ'.xls'^LLJ'ach'^LLJ'0000000000000000000c62ddd42931fe9e6af2f7d11d4d28b4c01c0ca7c2f4d2 (4).xlsx](https://github.com/zakwarlord7/s2i-caddy/files/10330398/LLJ.xls.LLJ.ach.LLJ.0000000000000000000c62ddd42931fe9e6af2f7d11d4d28b4c01c0ca7c2f4d2.4.xlsx)
 token"''
-
 token: "((c)(r))"''
-
 ' Run''        ' Run''
-
 ithub)
-
 # This is a basic workflow to help you get started with Actions
-
 name: CI
-
 # Controls when the workflow will run
-
 on:
-
 # Triggers the workflow on push or pull request events but only for the "paradice" branch
-
 push:
-
 branches: [ "Paradise" ]
-
 pull_request:
-
 branches: [ "paradice" ]
-
 # Allows you to run this workflow manually from the Actions tab
-
 workflow_dispatch:
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-
 jobs:
-
 # This workflow contains a single job called "build"
-
 build:
-
 # The type of runner that the job will run on
-
 runs-on: ubuntu-latest
-
 # Steps represent a sequence of tasks that will be executed as part of the job
-
 steps:
-
 # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-
 - uses: actions/checkout@v3
-
 # Runs a single command using the runners shell
-
 - name: Run a one-line script
-
 run: echo Hello, world!
-
 # Runs a set of commands using the runners shell
-
 - name: Run a multi-line script
-
 run: |
-
 #Echo :Adds ALL AUTOMATES AUTOMATE AUTOMATE:Automatically::'
-
 other actions to build,
-
 #Echo test, and deploy your project.'
-
 # :Job
-
 - :Step :
-
 - #Build and Deployee :title :
-
 - title :VONSATRUCTION//posted\
-
 - DEPOSIT
-
-- - TICKET-#000001 :                                                                                                                       
--                                  Printed from  Chase Personal Online
+- - TICKET-#000001 :                                                                                                                                Printed from  Chase Personal Onlin
 CHASE.SAVINGS('#'Acct...2965 :) :'
-
 $226629983361014.00
-
 Available balance                                                                                                                         
-
 $70842743866.00
-
 Present balance												
-
 Date				Reason			Expires	Amount			
-
 March 26,  2022				Wages, Tips and Other Compensation			March 26,  22	$1,339.00			
-
 March 26,  2022				We've placed a hold on one or more electronic funds transfers or checks in your deposit account.			March 26,  
-
 2022
-
-- '"'{'{'{'{'"'$'"'' '{'['{'('(c').'(r')'])']'}.'{'[22677000000000.'[00']m']BITORE_34173.1337_18893'}.'{'('B'C'H'S'\U'S'D')'' ')']'}'' '}'}'}'"'' ':''			
-
+- '"'{'{'{'{'"'$'"'' '{'['{'('(c').'(r')'])']'}.'{'[22677000000000.'[00']m']BITORE_34173.1337_18893'}.'{'('B'C'H'S'\U'S'D')'' ')']'}'' '}''}'"'' ':''			
 Account activity												
-
 S H O W I N G			All transactions								
-
 Date			Description		Type		Amount	Balance			
-
 Deposit BOOK Styl
-
 DEPOSIT TICKET
-
 ([312.65]).(674678000)
-
 Department of the Treasury                                                                                                                 
-
-
 +Internal Revenue Service +Q4 2020 Q4 2019
-
 +Calendar Year
-
 +Due: 04/18/2022
-
 +Dec. 31, 2020 Dec. 31, 2019 +USD in "000'"s
-
 Other Adjustments to Net Income Available to Common Stockholders
 
 
@@ -266,7 +187,7 @@ Change in Accrued Expenses                                                      
 Change in Deferred Assets/Liabilities 
 Change in Other Operating Capital                                                                                                                                                                                                                      11,016,000,000- 10,050,000,000- 9,074,000,000- 5,383,000,000- 7,281,000,000
 Change in Prepayments and Deposits                                                                                                                                                                                                                     11,016,000,000- 10,050,000,000- 9,074,000,000- 5,383,000,000- 7,281,000,000
-Cash Flow from Investing Activities 
+Cash Flow from Investing Activities
 Cash Flow from Continuing Investing Activities                                                                                                                                                                                                         6,383,000,000- 6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000 -6,383,000,000 -6,819,000,000 -5,496,000,000 -5,942,000,000 -5,479,000,000
 Purchase/Sale and Disposal of Property, Plant and Equipment,Net 
 Purchase of Property, Plant and Equipment                                                                                                                                                                                                                385,000,000 259,000,000 308,000,000 1,666,000,000- 370,000,000-
@@ -304,12 +225,7 @@ Discontinued Operations
 Form 1040 (2021) 76,033,000,000.00 20,642,000,000 18,936,000,000
 Reported Normalized and Operating Income/Expense
 Supplemental Section
-Total Revenue as Reported, Supplemental 25763700000000 7532500000000 6511800000000 6188000000000 5531400000000 56												
-												
-												
-												
-												
-												
+Total Revenue as Reported, Supplemental 25763700000000 7532500000000 6511800000000 6188000000000 5531400000000 56																							
 <!DOCTYPE html><html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
