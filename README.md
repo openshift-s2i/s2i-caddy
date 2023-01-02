@@ -1,5 +1,6 @@
-''*'*'' '':':'#':'#'#':''' ''#'#':':':'B'E'G'I'N'S':':'"'' :
-# GLOW7:"Run:"
+**:Build::Script:"build_script":''
+'import :plugg-inns./-.//postted\#Commit \
+./-# GLOW7:"Run:"
 # Build:"
 # build_script''
 # echo:  hello-World!-bug-#138
@@ -40,4 +41,4 @@ jobs:
 #Echo :Adds ALL AUTOMATES AUTOMATE AUTOMATE:Automatically::'
 other actions to build,
 #Echo test, and deploy your project.'
-:Build::''*'*'':
+:Build::**
