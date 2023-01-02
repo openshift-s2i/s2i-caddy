@@ -1,80 +1,46 @@
-###BEGIN :Run ::Runs :Run ::'"' 
-
+BEGIN :'Run''
+Runs :'Run'' :BEGIN :Runs ::Run :'::Runs:'' 
 BEGINS
-
-###!User/bin/Bash/ ENV AUTOMATE AUTOMATES RUNS RUNNERS.IOS RUNS RUN RUN RUN RUNS-ON 'Run'' RUNS RUN RUN RUNS BEGIN-ON RUN STARTS START=ON 
+# #!/User/bin/Bash :ENV
+ENV ;Automate.yml :
+AUTOMATE AUTOMATES RUNS RUNNERS.IOS RUNS RUN RUN RUN RUNS-ON 'Run'' RUNS RUN RUN RUNS BEGIN-ON RUN STARTS START=ON 
 BEGIN BEGINS-ON 'Run'' 
-
 @/
-
 GLOW4
-
 'Run''
-
 # Build:"
-
 # build_script''
-
 # echo:  hello-World!-bug-#138
-
 # name": "my-electron-app",
-
 # versioning": "1.0.0",
-
 # description: "Hello World!",
-
 const: "['^LLJ'.xls'^LLJ'ach'^LLJ'0000000000000000000c62ddd42931fe9e6af2f7d11d4d28b4c01c0ca7c2f4d2 (4).xlsx]
-
 (https://github.com/zakwarlord7/s2i-
-
 caddy/files/10330398/LLJ.xls.LLJ.ach.LLJ.0000000000000000000c62ddd42931fe9e6af2f7d11d4d28b4c01c0ca7c2f4d2.4.xlsx)
-
 token"''
-
 token: "((c)(r))"''
-
 ' Run''        ' Run''
-
 (Github)[doc](javascript)[package.yarnl/pkg.json] :
-
 # This is a basic workflow to help you get started with Actions
-
 -#:Name :ci:C:\\Users:I:'' :
-
 # Controls when the workflow will run
-
-
 on:
-
+-on :
 # Triggers the workflow on push or pull request events but only for the "paradice" branch
-
 push:
-
 branches: [ "Paradise" ]
-
 pull_request:
-
 branches: [ "paradice" ]
-
 # Allows you to run this workflow manually from the Actions tab
-
 workflow_dispatch:
-
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-
 jobs:
-
 # This workflow contains a single job called "build"
-
 build:
-
 # The type of runner that the job will run on
-
 runs-on: ubuntu-latest
-
 # Steps represent a sequence of tasks that will be executed as part of the job
-
-steps:
+steps :-' ::
 
 # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
 
