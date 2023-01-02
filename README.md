@@ -923,7 +923,7 @@ Total Revenue as Reported, Supplemental 25763700000000 7532500000000 65118000000
 
     Cash and Cash Equivalents, End of Period
 
-   :##**Does Not include interest paid, capital obligation, and underweighting**##:
+   :##: *include interest paid, capital obligation, and underweighting** :##:
 
     Basic net income per share of Class A and B common stock
 
@@ -953,44 +953,45 @@ Total Revenue as Reported, Supplemental 25763700000000 7532500000000 65118000000
 
     Supplemental Section
 
-    Total Revenue as Reported, Supplemental 25763700000000 7532500000000 6511800000000 6188000000000 5531400000000 56												
-:'Build::
-'Publish:
-    
-    
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
-												
->
+    Total Revenue as Reported, Supplemental 25763700000000 7532500000000 6511800000000 6188000000000 5531400000000 56										
   
-  <script xmlns:str="http://exslt.org/strings">
+  '<script xmlns:str="http://exslt.org/strings">
 			
-    window.SUBSCRIPTION = 
+    'window.SUBSCRIPTION = 
     
     {
 		
-    status: "need_login"
+    'status: "need_login"
 		
     }
 		
-  </script><script defer src="/build/app/pdfLibraries.93f961c2b07a86885dbe7e67f99206ff.js"></script><script defer src="/build/app/pdf-editor.9f658ea291d41600aac7df931c2d8225.js"></script><div id="custom_fc_button" style="visibility:hidden;" class="fc_button d-none"><a id="open_fc_widget" style="cursor:pointer;"><svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none"><path d="M23.5024 1.88672H4.47022C2.48032 1.88672 0.861328 3.50571 0.861328 5.49561V17.1429C0.861328 19.129 2.47327 20.7451 4.4574 20.7518V26.0375L12.0528 20.7523H23.5024C25.4923 20.7523 27.1113 19.1333 27.1113 17.1429V5.49561C27.1113 3.50571 25.4923 1.88672 23.5024 1.88672ZM20.0855 15.4224H7.88718V13.8843H20.0855V15.4224ZM20.0855 12.1411H7.88718V10.603H20.0855V12.1411ZM20.0855 8.85986H7.88718V7.32177H20.0855V8.85986Z" fill="#F7F8FA"></path></svg></a></div>
+  '</script><script defer src="/build/app/pdfLibraries.93f961c2b07a86885dbe7e67f99206ff.js">
+    
+    '</script>
+    
+    '<script defer src="/build/app/pdf-editor.9f658ea291d41600aac7df931c2d8225.js">
+    
+    '</script><div id="custom_fc_button" style="visibility:hidden;" class="fc_button d-none">
+    
+    '<a id="open_fc_widget" style="cursor:pointer;">
+    
+    '<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
+      
+      '<path d="M23.5024 1.88672H4.47022C2.48032 1.88672 0.861328 3.50571 0.861328 5.49561V17.1429C0.861328 19.129 2.47327 20.7451 ''
+               
+               '4.4574''
+               
+               '20.7518V26.0375L12.0528 20.7523H23.5024C25.4923 20.7523 27.1113 19.1333 27.1113 17.1429V5.49561C27.1113 3.50571 25.4923''
+               
+               '1.88672 23.5024 1.88672ZM20.0855 15.4224H7.88718V13.8843H20.0855V15.4224ZM20.0855''
+               
+               '12.1411H7.88718V10.603H20.0855V12.1411ZM20.0855 8.85986H7.88718V7.32177H20.0855V8.85986Z" fill="#F7F8FA">
+      
+      </path></svg></a></div>
 
-    <script src="https://apis.google.com/js/platform.js" async="" defer></script>
+    <script src="https://apis.google.com/js/platform.js" async="" defer>
+    
+    </script>
 
   </body>
 
