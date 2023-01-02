@@ -118,7 +118,6 @@ $226629983361014.00
 
 Available balance                                                                                                                         
 
-
 $70842743866.00
 
 Present balance												
@@ -129,8 +128,9 @@ March 26,  2022				Wages, Tips and Other Compensation			March 26,  22	$1,339.00
 
 March 26,  2022				We've placed a hold on one or more electronic funds transfers or checks in your deposit account.			March 26,  
 
-2022	
-'"'{'{'$'' '{{{{'['{'('(c')'.'(r')']'}'.'{'[22677000000000'.'[00']m']'}'.'{'('B'C'H'S'\'U'S'D')'' ')']'}'' '}'}'}'"'' ':''			
+2022
+
+- '"'{'{'{'{'"'$'"'' '{'['{'('(c').'(r')'])']'}.'{'[22677000000000.'[00']m']BITORE_34173.1337_18893'}.'{'('B'C'H'S'\U'S'D')'' ')']'}'' '}'}'}'"'' ':''			
 
 Account activity												
 
