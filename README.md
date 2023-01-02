@@ -1,88 +1,206 @@
-[(!#_[CHASE SAVINGS (...2965) - chase.com_1.xlsx](https://github.com/zakwarlord7/s2i-caddy/files/10330347/CHASE.SAVINGS.2965.-.chase.com_1.xlsx)
+
+## L# ::# :BEGIN :
+
+# GLOW$:#!//POSTED\
+
+cyr; --requests'@"!#ci:Users:\C:\\I :
+
+!#/###!#/:#!/C\D:Ra,:Users:\02100002100521010230051050000000:\
+
+:Build::
+
+[[#](!)[CHASE SAVINGS (...2965) - chase.com_1.xlsx](https://github.com/zakwarlord7/s2i-
+caddy/files/10330347/CHASE.SAVINGS.2965.-.chase.com_1.xlsx)#]::Fix :AUTOMATE :PERFECT :ALL 
+
+::
+
 **:Build::Script:"build_script":''
+
 'import :plugg-inns./-.//postted\#Commit \
+
 ./-# GLOW7:"Run:"
+
 # Build:"
+
 # build_script''
+
 # echo:  hello-World!-bug-#138
+
 # name": "my-electron-app",
- # versioning": "1.0.0",
- # description: "Hello World!",
+
+# versioning": "1.0.0",
+
+# description: "Hello World!",
+
 const: "token"''
+
 token: "((c)(r))"''
+
 ' Run''        ' Run''
+
 ithub)
+
 # This is a basic workflow to help you get started with Actions
+
 name: CI
+
 # Controls when the workflow will run
+
 on:
-  # Triggers the workflow on push or pull request events but only for the "paradice" branch
-  push:
-    branches: [ "Paradise" ]
-  pull_request:
-    branches: [ "paradice" ]
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
+
+# Triggers the workflow on push or pull request events but only for the "paradice" branch
+
+push:
+
+branches: [ "Paradise" ]
+
+pull_request:
+
+branches: [ "paradice" ]
+
+# Allows you to run this workflow manually from the Actions tab
+
+workflow_dispatch:
+
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
+
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
-    steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
-        run: |
+
+# This workflow contains a single job called "build"
+
+build:
+
+# The type of runner that the job will run on
+
+runs-on: ubuntu-latest
+
+# Steps represent a sequence of tasks that will be executed as part of the job
+
+steps:
+
+# Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+- uses: actions/checkout@v3
+
+# Runs a single command using the runners shell
+
+- name: Run a one-line script
+
+run: echo Hello, world!
+
+# Runs a set of commands using the runners shell
+
+- name: Run a multi-line script
+
+run: |
+
 #Echo :Adds ALL AUTOMATES AUTOMATE AUTOMATE:Automatically::'
+
 other actions to build,
+
 #Echo test, and deploy your project.'
+
 # :Job
+
 - :Step :
+
 - #Build and Deployee :title :
+
 - title :VONSATRUCTION//posted\
+
 - DEPOSIT
-- - TICKET-#000001 :                                                                                                                                                        Printed from  Chase Personal Online
-CHASE  SAVINGS  (...2965)
+
+- - TICKET-#000001 :                                                                                                                       
+-                                  Printed from  Chase Personal Online
+CHASE.SAVINGS('#'Acct...2965 :) :'
+
 $226629983361014.00
-Available balance                                                                                                                                                                                                                                                                     												
+
+Available balance                                                                                                                         
+
+
 $70842743866.00
+
 Present balance												
-	Date				Reason			Expires	Amount			
-	March 26,  2022				Wages, Tips and Other Compensation			March 26,  22	$1,339.00			
-	March 26,  2022				We've placed a hold on one or more electronic funds transfers or checks in your deposit account.			March 26,  2022	$133,939.99			
+
+Date				Reason			Expires	Amount			
+
+March 26,  2022				Wages, Tips and Other Compensation			March 26,  22	$1,339.00			
+
+March 26,  2022				We've placed a hold on one or more electronic funds transfers or checks in your deposit account.			March 26,  
+
+2022	
+'"'{'{'$'' '{{{{'['{'('(c')'.'(r')']'}'.'{'[22677000000000'.'[00']m']'}'.'{'('B'C'H'S'\'U'S'D')'' ')']'}'' '}'}'}'"'' ':''			
+
 Account activity												
-	S H O W I N G			All transactions								
-	Date			Description		Type		Amount	Balance			
+
+S H O W I N G			All transactions								
+
+Date			Description		Type		Amount	Balance			
+
 Deposit BOOK Styl
+
 DEPOSIT TICKET
+
 ([312.65]).(674678000)
-Department of the Treasury                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+Department of the Treasury                                                                                                                 
+
+
 +Internal Revenue Service +Q4 2020 Q4 2019
+
 +Calendar Year
+
 +Due: 04/18/2022
+
 +Dec. 31, 2020 Dec. 31, 2019 +USD in "000'"s
+
 Other Adjustments to Net Income Available to Common Stockholders
+
+
 Discontinued Operations        
-Form 1040 (2021)                                                                                                                                                                                                                                               760330000000000 206420000000000 189360000000000
+Form 1040 (2021)                                                                                                                           
+760330000000000 206420000000000 189360000000000
+
 Reported Normalized and Operating Income/Expense
+
 Supplemental Section
-Total Revenue as Reported, Supplemental                                                                                                                                                                                                                   2576370000000000 753250000000000 6511800000000 6188000000000 5531400000000 5689800000000 4617300000000 3829700000000 4115900000000 4607500000000 404990000000                                        Total Operating Profit/Loss as Reported, Supplemental                                                                                                                                                             787140000000000 2188500000000 2103100000000 1936100000000 1643700000000 1565100000000 1121300000000 638300000000 797700000000 926600000000 91770000000
-0eported Effective Tax Rate                                                                                                                                                                                                                                      0.162           0.179         0.157         0.158         0.158         0.159         0.119          0.181
+
+Total Revenue as Reported, Supplemental                                                                                                   
+
+
+
+2576370000000000 753250000000000 6511800000000 6188000000000 5531400000000 5689800000000 4617300000000 3829700000000 4115900000000 4607500000000 404990000000                                        Total Operating Profit/Loss as Reported, Supplemental                   
+787140000000000 2188500000000 2103100000000 1936100000000 1643700000000 1565100000000 1121300000000 638300000000 797700000000 926600000000 
+91770000000
+
+0eported Effective Tax Rate                                                                                                               
+0.162           0.179         0.157         0.158         0.158         0.159         0.119          0.181
+
 eported Normalized Income     
-eported Normalized Operating Profit                                                                                                                                                                                                                                                                                                                                                                                                                                              
+
+eported Normalized Operating Profit                                                                                                       
+
+
 ther Adjustments to Net Income Available to Common Stockholder
-Discontinued Operations Basic EPS                                                                                                                                                                                                                             312.65 $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 Basic EPS from Continuing Operations                                                                                                                                                                                                                     113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2
+
+Discontinued Operations Basic EPS                                                                                                         
+312.65 $113.88 31.15 28.44 27.69 26.63 22.54 16.55 10.21 9.96 15.49 Basic EPS from Continuing Operations                                   
+113.88 31.12 28.44 27.69 26.63 22.46 16.55 10.21 9.96 15.47 10.2
+
 Basic EPS from Discontinued Operatio
-Diluted EPS                                                                                                                                                                                                                                                            112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35  10.12 312.65
-Diluted EPS from Continuing Operations                                                                                                                                                                                                                    112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12
+
+
+Diluted EPS                                                                                                                               
+112.20 30.69 27.99 27.26 26.29 22.3 16.4 10.13 9.87 15.35  10.12 312.65
+
+Diluted EPS from Continuing Operations                                                                                                     
+112.20 30.67 27.99 27.26 26.29 22.23 16.4 10.13 9.87 15.33 10.12
+
 Diluted EPS from Discontinued Operati   
-Basic Weighted Average Shares Outstanding                                                                                                                                                                                                                   66765000000 66266400000 66575800000 66895800000 67322000000 67558100000 67944900000 68176800000 68646500000 68880400000 69274100000
+
+Basic Weighted Average Shares Outstanding                                                                                                 
+66765000000 66266400000 66575800000 66895800000 67322000000 67558100000 67944900000 68176800000 68646500000 68880400000 69274100000
 Diluted Weighted Average Shares Outstanding                                                                                                                                                                                                               67767400000 67249300000 67651900000 67961200000 68207100000 68296900000 68585100000 68702400000 69226700000 69519300000 69819900000 
 Reported Normalized Diluted EPS                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            $$2583.87
 Basic EPS                                                                                                                                                                                                                                                                11388 31150 28440 27690 26630 22540 16550 10210 00996 15490 10210
