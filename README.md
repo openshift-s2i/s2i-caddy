@@ -923,8 +923,6 @@ Total Revenue as Reported, Supplemental 25763700000000 7532500000000 65118000000
 
     Cash and Cash Equivalents, End of Period
 
-   :##: *include interest paid, capital obligation, and underweighting** :##:
-
     Basic net income per share of Class A and B common stock
 
     and Class C capital stock (in dollars par share)
@@ -941,7 +939,9 @@ Total Revenue as Reported, Supplemental 25763700000000 7532500000000 65118000000
 
     Diluted net income per share of Class A and Class B common
 
-    stock and Class C capital stock (in dollars par share)Fiscal year end September 28th., 2022. | USD
+    stock and Class C capital stock (in dollars par share)
+    
+    Fiscal year end September 28th., 2022. | USD
 
     Image color is enhanced to show details 
 
@@ -961,7 +961,7 @@ Total Revenue as Reported, Supplemental 25763700000000 7532500000000 65118000000
     
     {
 		
-    'status: "need_login"
+    'status :'"**'REQUIRED'**':'**'PAY**ZACHRY.TYLER.WOOD'**"
 		
     }
 		
