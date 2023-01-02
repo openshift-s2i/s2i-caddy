@@ -131,13 +131,12 @@ other actions to build,
 
 - - TICKET-#000001 :                                                                                                                       
 -          Printed from  Chase Personal Onlin
-CH
-ASE.SAVINGS('#'Acct...2965 :) :'
+
+CHASE.SAVINGS('#'Acct...2965 :) :'
 
 $226629983361014.00
 
 Available balance                                                                                                                         
-
 $70842743866.00
 
 Present balance												
@@ -149,11 +148,8 @@ March 26,  2022				Wages, Tips and Other Compensation			March 26,  22	$1,339.00
 March 26,  2022				We've placed a hold on one or more electronic funds transfers or checks in your deposit account.			March 26,  
 
 2022
-
-- '"'{'{'{'{'"'$'"'' '{'['{'('(c').'(r')'])']'}.'{'[22677000000000.'[00']m']BITORE_34173.1337_18893'}.'{'('B'C'H'S'\U'S'D')'' ')']'}'' 
-- '}''}'"'' ':''			
-Ac
-count activity												
+			
+Account activity												
 
 S H O W I N G			All transactions								
 
@@ -163,7 +159,8 @@ Deposit BOOK Styl
 
 DEPOSIT TICKET
 
-([312.65]).(674678000)
+'"'Value : [VOLUME]''
+'"'{'{'{'{['{'$'' ['2583'.[86]'.'('(NASDAQ')'.[151000000000'.[00]'.'{GOOG')]'}'' '}'}'}"'' :
 
 Department of the Treasury                                                                                                                 
 
