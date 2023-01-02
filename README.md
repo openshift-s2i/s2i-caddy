@@ -9,10 +9,10 @@ cyr; --requests'@"!#ci:Users:\C:\\I :
 
 :Build::
 
-[[#](!)[CHASE SAVINGS (...2965) - chase.com_1.xlsx](https://github.com/zakwarlord7/s2i-
-caddy/files/10330347/CHASE.SAVINGS.2965.-.chase.com_1.xlsx)#]::Fix :AUTOMATE :PERFECT :ALL 
+'@:[![CHASE SAVINGS (...2965) - chase.com_1.xlsx](https://github.com/zakwarlord7/s2i-''
+'caddy/files/10330347/CHASE.SAVINGS.2965.-.chase.com_1.xlsx)#]''
 
-::
+'::Fix :AUTOMATE :PERFECT :ALL 
 
 **:Build::Script:"build_script":''
 
