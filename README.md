@@ -1,4 +1,4 @@
-BEGIN::"''
+''*'*'' '':':'#':'#'#':''' ''#'#':':':'B'E'G'I'N'S':':'"'' :
 # GLOW7:"Run:"
 # Build:"
 # build_script''
@@ -40,4 +40,4 @@ jobs:
 #Echo :Adds ALL AUTOMATES AUTOMATE AUTOMATE:Automatically::'
 other actions to build,
 #Echo test, and deploy your project.'
-          :Build::
+:Build::''*'*'':
