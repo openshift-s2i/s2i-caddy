@@ -24,7 +24,7 @@ token: "((c)(r))"''
 
 ' Run''        ' Run''
 
-ithub)
+(Github)[doc](javascript)[package.yarnl/pkg.json] :
 
 # This is a basic workflow to help you get started with Actions
 
